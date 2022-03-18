@@ -59,5 +59,7 @@ public class DivideAndConquer {
         }
 
         System.out.println();
+
+        System.out.println("hello world");
     }
 }
